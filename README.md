@@ -18,13 +18,6 @@
 - **Wide Currency Support**: Supports a wide range of currencies globally.
 - **Seamless Integration**: Automatically picks up highlighted numbers on webpages.
 
-## 🛠️ Installation
-
-### Chrome Web Store
-
-1. Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/your-extension-id).
-2. Click "Add to Chrome".
-3. Pin the extension for easy access.
 
 ### Manual Installation
 
