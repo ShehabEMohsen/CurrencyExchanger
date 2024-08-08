@@ -16,7 +16,6 @@
 - **Instant Currency Conversion**: Convert currencies on any webpage with a simple right-click.
 - **Real-time Exchange Rates**: Powered by the [ExchangeRate-API](https://www.exchangerate-api.com/), ensuring accurate and up-to-date exchange rates.
 - **Wide Currency Support**: Supports a wide range of currencies globally.
-- **Seamless Integration**: Automatically picks up highlighted numbers on webpages.
 
 
 ### Manual Installation
